@@ -1,0 +1,7 @@
+Workflow of GitHub
+
+1. Start of the day, we run a "git pull" to get the latest.
+2. Make the changes and then add everything to git "git add -A".
+3. Then commit your changes with the command >git commit -m "comments"
+4. Then push the changes >git push
+
